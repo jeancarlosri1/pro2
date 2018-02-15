@@ -3,5 +3,9 @@
 }
 
 header{
-background-image: url('../calculadora.PNG');
+height: 100px;
+	background-image: url('../calculadora.PNG');
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
 }
