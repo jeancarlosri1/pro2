@@ -1,3 +1,7 @@
 .resultado input{
 	color: green;
 }
+
+header{
+background-image: url('../calculadora.PNG');
+}
