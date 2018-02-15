@@ -1,3 +1,9 @@
+
+.resultado: label{
+	font-family: 'Bungee', cursive;
+	color: black;	
+	margin-left: 550px;}
+
 .resultado: input{
 	color: green;
 }
